@@ -463,7 +463,7 @@ global.pdana = '08989513496'
 global.povo = ''
 global.pgopay = ''
 global.ppulsa = '08989513496'
-global.ppulsa2 = '08989513496
+global.ppulsa2 = '08989513496'
 global.psaweria = 'BLOM BIKIN'
 
 /*Emoji*/
